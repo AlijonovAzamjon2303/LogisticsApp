@@ -2,7 +2,7 @@
 {
     internal class Truck : ITransport
     {
-        public void deliver()
+        public void Deliver()
         {
             Console.WriteLine("Delivered by truck");
         }
